@@ -1,0 +1,25 @@
+{
+  "name": "image-gallery-starter-sandbox",
+  "version": "0.0.15",
+  "keywords": [],
+  "main": "index.js",
+  "homepage": "./",
+  "dependencies": {
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-lazy-load-image-component": "^1.5.0",
+    "react-lazyload": "^3.0.0",
+    "react-redux": "7.2.0",
+    "redux": "4.0.5",
+    "redux-thunk": "2.3.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
